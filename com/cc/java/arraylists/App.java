@@ -9,10 +9,10 @@ public class App {
 		
 		// // ArrayList (AL) anlegen ...
 		
-		// ArrayList<String> carMakers = new ArrayList<>();
+		ArrayList<String> carMakers = new ArrayList<>();
 		
-		// System.out.println(carMakers);
-		// System.out.println(carMakers.size());
+		System.out.println(carMakers);
+		System.out.println(carMakers.size());
 		
 		// // AL dynamisch füllen (JS --> push() / J --> add())
 		// carMakers.add("Volvo");
