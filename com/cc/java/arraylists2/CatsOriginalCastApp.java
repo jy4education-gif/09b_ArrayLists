@@ -116,6 +116,7 @@ public class CatsOriginalCastApp {
         System.out.println("Historisch leider nicht belegt, also kein Eintrag in die Original-Cast-ArrayList!");
 
         // (kein add() für sneakyCat: wir entscheiden bewusst, ob wir ein Element aufnehmen)
+        // weitere Iteration!  
     }
 }
 
