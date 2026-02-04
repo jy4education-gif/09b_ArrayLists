@@ -92,7 +92,8 @@ public class CatsOriginalCastApp {
         originalLondonCast.add(new CatRole("Skimbleshanks", "Kenn Wells"));
         originalLondonCast.add(new CatRole("Asparagus (Gus)", "Stephen Tate"));
         originalLondonCast.add(new CatRole("Bombalurina", "Geraldine Gardner"));
-        originalLondonCast.add(new CatRole("Demeter", "Finola Hughes"));
+        originalLondonCast.add(new CatRole("TomCat", "Peter Schmidt"));
+        
 
         // 3. Übersicht: Wie viele Katzen?
         System.out.println("Auszug der Londoner Originalbesetzung von 1981:");
